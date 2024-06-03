@@ -1,1 +1,1 @@
-Hi, my name is Robert, and I develop software under the pseudonym Synosym RJkS. My programming journey began with Minecraft about seven years ago. Since then, I have shifted my focus to building robust full-stack web applications primarily using Next.js and Typescript. Feel free to explore my work or get in touch if you’re interested in hiring me. For more information or to contact me, visit my [Website](https://rjks.us).
+This is my github config repo. Nothing to see here.
